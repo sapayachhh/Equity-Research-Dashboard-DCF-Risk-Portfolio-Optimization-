@@ -28,6 +28,8 @@ TechC
 Using a multivariate normal distribution, the model simulates realistic co-movements among assets.
 
 Output:
+<img width="1268" height="605" alt="image" src="https://github.com/user-attachments/assets/3fd2cc2f-8581-4af3-a648-ea3362321fc0" />
+
 Daily return series
 Historical price paths
 Correlation structure between assets
