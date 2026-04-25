@@ -42,3 +42,5 @@ For each asset, the model calculates:
 Annualized Return
 Annualized Volatility
 Sharpe Ratio
+
+<img width="560" height="402" alt="image" src="https://github.com/user-attachments/assets/7ace4ac2-c95a-47d9-a13c-e81dbc713b45" />
